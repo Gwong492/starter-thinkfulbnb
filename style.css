@@ -225,13 +225,14 @@ footer p {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-left: 0%;
   }
 
   .ideasContent {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-    width: 80%;
+    width: 100%;
   }
 
   .ideasContent div {
